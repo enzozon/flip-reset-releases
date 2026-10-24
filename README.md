@@ -1,3 +1,3 @@
-# Rocket Garage releases
+# Flip Reset
 
-Binários do Rocket Garage (o código-fonte é privado). Baixe o instalador `RocketGarage-<versão>-setup.exe` em Releases; o app se atualiza sozinho a partir daqui.
+Binários do Flip Reset (o código-fonte é privado). Baixe o instalador `FlipReset-<versão>-setup.exe` (ou o `FlipReset-<versão>-portable.exe`, sem instalação) em Releases; o app instalado se atualiza sozinho a partir daqui.
